@@ -1,4 +1,4 @@
-# 🍽️ ZOMO – Restaurant AI Chatbot for Roorkee
+# 🍽️ ZOTO – Restaurant AI Chatbot for Roorkee
 
 **ZOTO** is a smart Streamlit-based conversational chatbot powered by Retrieval-Augmented Generation (RAG), built to explore menus, prices, dietary preferences, and more from restaurants in **Roorkee, India**.
 
