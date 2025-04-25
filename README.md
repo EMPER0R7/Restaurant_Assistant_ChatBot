@@ -67,10 +67,10 @@ The app will open automatically in your browser. If not, navigate to the URL sho
 ## 💡 Example Queries You Can Ask
 
 - “Show vegetarian options under ₹200”
-- “Compare Tamra and Tanisha’s Restaurant”
-- “What are the desserts at Indian Accent?”
+- “Compare Prakash and PD Restaurant”
+- “What are the desserts at Hungry Point?”
 - “Does Hungry Point have any gluten-free dishes?”
-- “Compare beverages at Tamra and Baap Of Rolls”
+- “Compare beverages at Tanisha and Baap Of Rolls”
 
 ---
 
